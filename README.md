@@ -4,6 +4,38 @@ Turn a real-person photo or existing mascot into a reusable personal IP, then ap
 
 把真人照片或已有角色转化为可复用的个人 IP，并持续用于角色设定、公众号配图、社交媒体视觉、知识卡片和信息图。
 
+## Examples / 效果示例
+
+### Personal IP system / 个人 IP 角色系统
+
+The same accepted character can be extended into a consistent turnaround and expression library.
+
+确认角色后，可以继续生成统一的三视图和表情资产，供后续内容反复使用。
+
+<table>
+  <tr>
+    <td width="58%"><img src="examples/character-turnaround.png" alt="Personal IP front, side, and back turnaround"></td>
+    <td width="42%"><img src="examples/character-expression-sheet.png" alt="Personal IP 3 by 3 expression sheet"></td>
+  </tr>
+</table>
+
+### Content applications / 内容应用
+
+The accepted IP can also appear in article illustrations and knowledge infographics instead of stopping at a character sheet.
+
+角色确认后，可以直接用于公众号正文配图、知识卡片和信息图，而不只是停留在角色设定阶段。
+
+<table>
+  <tr>
+    <td width="50%"><img src="examples/article-illustration.png" alt="Personal IP used in an article illustration"></td>
+    <td width="50%"><img src="examples/knowledge-infographic.png" alt="Personal IP used in a knowledge infographic"></td>
+  </tr>
+</table>
+
+These examples contain only finished illustrations. Source identity photos and intermediate test images are not included in the repository.
+
+示例仅展示最终插画，不包含真人原图或中间测试素材。
+
 ## What it does / 能做什么
 
 - Uses a built-in cute chibi style when only identity photos are supplied.
@@ -61,6 +93,7 @@ Minimum input: one clear identity photo. Optional inputs include a full-body pho
 
 - `SKILL.md` — core routing and workflow
 - `references/` — onboarding, style, character assets, content, and QA guidance
+- `examples/` — finished character and content-application examples shown above
 - `assets/character-profile-template.yaml` — reusable character profile template
 - `agents/openai.yaml` — Codex UI metadata and default invocation prompt
 
