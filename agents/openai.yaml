@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Personal IP"
+  short_description: "Turn a photo into a reusable personal IP"
+  default_prompt: "Use $build-personal-ip to turn my photo into a personal IP, finalize the character and styling together, then create the assets I need."

@@ -1,0 +1,56 @@
+schema_version: 1
+project_name: ""
+character_id: ""
+profile_version: 1
+profile_status: "draft"
+
+workflow:
+  design_status: "unresolved"
+  core_pack_status: "not-started"
+  companion_ip: false
+
+references:
+  design_options: ""
+  accepted_anchor: ""
+  turnaround: ""
+  expression_sheet: ""
+
+identity:
+  type_or_species: ""
+  age_impression: ""
+  proportions: ""
+  face: ""
+  eyes: ""
+  mouth: ""
+  hair_or_fur: ""
+  skin_or_base_color: ""
+  silhouette: ""
+
+fixed_traits: []
+variable_traits: []
+forbidden_traits: []
+
+current_design:
+  hairstyle: ""
+  outfit: ""
+  shoes: ""
+  accessories: []
+  palette: []
+
+style_profile:
+  mode: "default-cute"
+  reference_paths: []
+  line: ""
+  shape_language: ""
+  proportions: ""
+  facial_system: ""
+  color_behavior: ""
+  texture: ""
+  depth: ""
+  composition: ""
+  motion_marks: ""
+  avoid: []
+
+companions: []
+
+change_history: []
